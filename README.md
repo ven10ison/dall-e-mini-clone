@@ -5,7 +5,8 @@
 2. Node js <br/>
 3. Express js <br/>
 4. MongoDB <br/> 
-4. cloudinary
+4. cloudinary<br/>
+5 OPEN AI API (for this to work properpy, you need Dall-e api)
 
 <h2>Functions</h2>
 1. Search image <br/> 
